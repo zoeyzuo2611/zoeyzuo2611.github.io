@@ -1,0 +1,382 @@
+body{
+    background:url(http://pic2.duowan.com/jx3/1104/165630783092/165631219995.jpg);
+    -moz-background-size:50% 100%; 
+    background-size: 1950px;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+.xizhi {
+    display: block;
+    position: absolute;
+    left: 47%;
+    top: 10%;
+}
+
+.sheji {
+    display: block;
+    position: absolute;
+    left: 29%;
+    top: 42%;
+}
+
+.dujiezhufeng {
+    display: block;
+    position: absolute;
+    left: 53%;
+    top: 42%;
+}
+
+.dujiezhuling {
+   display: block;
+    position: absolute;
+    left: 29%;
+    top: 90% 
+}
+
+.dujienanhuang {
+    display: block;
+    position: absolute;
+    left: 53%;
+    top: 90%;
+}
+
+.sheji2 {
+    display: block;
+    position: absolute;
+    left: 29%;
+    top: 42%;
+}
+
+.dujiezhufeng2 {
+    display: block;
+    position: absolute;
+    left: 53%;
+    top: 42%;
+}
+
+.dujiezhuling2 {
+   display: block;
+    position: absolute;
+    left: 29%;
+    top: 90% 
+}
+
+.dujienanhuang2 {
+    display: block;
+    position: absolute;
+    left: 53%;
+    top: 90%;
+}
+
+.sheji3 {
+    display: block;
+    position: absolute;
+    left: 29%;
+    top: 42%;
+}
+
+
+.dujiezhufeng3 {
+    display: block;
+    position: absolute;
+    left: 53%;
+    top: 42%;
+}
+
+.dujiezhuling3 {
+   display: block;
+    position: absolute;
+    left: 29%;
+    top: 90% 
+}
+
+.dujienanhuang3 {
+    display: block;
+    position: absolute;
+    left: 53%;
+    top: 90%;
+}
+
+#duge {
+    display: block;
+    position: absolute;
+    top: 780px;
+    left: 58.7%;
+}
+
+#zhu {
+    display: block;
+    position: absolute;
+    top: 780px;
+}
+
+#loli {
+    display: block;
+    position: absolute;
+    left: 43.1%;
+    top: 780px;
+}
+
+#quan {
+    display: block;
+    position: absolute;
+    top: 38%;
+    left: 28%;
+}
+
+.divcss5-3{
+  border-top:2px double #FFFFFF; 
+  height:50px;
+  width:745px;
+  position: absolute;
+  top: 1010px;
+  left: 28.1%;
+}
+
+.image {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    margin-right: 220px;
+    padding: 10px;
+    top: 100%;
+    left: 27.5%;
+}
+
+#chen {
+    top: 22%;
+    position: absolute;
+    padding: 5px;
+    color: #FFFFFF;
+    left: 46%;
+    font-size: 25px;
+}
+
+#jx3 {
+    top: 26%;
+    position: absolute;
+    padding: 5px;
+    color: #FFFFFF;
+    left: 47%;
+    font-size: 24px;
+}
+
+
+footer {
+    left: 45%;
+    bottom: 0%;
+    padding: 5px;
+    position: fixed;
+    right: 0;
+    color: white;
+}
+
+.button{
+    color: white;
+    font-size: 23px;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    margin-right: 220px;
+    padding: 10px;
+    top: 225px;
+    left: 28%;
+}
+
+.fen {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    margin-right: 20px;
+    padding: 5px;
+    top: 255px;
+    left: -16.5%;
+}
+
+#design-1 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 630px; 
+  width: 550px;
+  left: 458px;
+  z-index: 5;
+  position: absolute;
+}
+
+#female-01 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 630px; 
+  width: 550px;
+  left: 840px;
+  z-index: 5;
+  position: absolute; 
+}
+
+#female-02 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 1010px; 
+  width: 350px;
+  left: 458px;
+  z-index: 5;
+  position: absolute; 
+}
+
+#female-03 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 1010px; 
+  width: 350px;
+  left: 840px;
+  z-index: 5;
+  position: absolute; 
+}
+
+#design-2 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 630px; 
+  width: 550px;
+  left: 458px;
+  z-index: 5;
+  position: absolute;
+}
+
+#male-01 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 630px; 
+  width: 550px;
+  left: 840px;
+  z-index: 5;
+  position: absolute; 
+}
+
+#male-02 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 1010px; 
+  width: 350px;
+  left: 458px;
+  z-index: 5;
+  position: absolute; 
+}
+
+#male-03 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 1010px; 
+  width: 350px;
+  left: 840px;
+  z-index: 5;
+  position: absolute; 
+}
+
+#design-3 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 630px; 
+  width: 550px;
+  left: 458px;
+  z-index: 5;
+  position: absolute;
+}
+
+#loli-01 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 630px; 
+  width: 550px;
+  left: 840px;
+  z-index: 5;
+  position: absolute; 
+}
+
+#loli-02 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 1010px; 
+  width: 350px;
+  left: 458px;
+  z-index: 5;
+  position: absolute; 
+}
+
+#loli-03 {
+  color: white;
+  font-size: 21px;
+  display: block;
+  top: 1010px; 
+  width: 350px;
+  left: 840px;
+  z-index: 5;
+  position: absolute; 
+}
+
+
+
+#touxiang-dujie {
+    display: block;
+    position: absolute;
+    top: 1030px;
+    left: 48%;
+}
+
+#touxiang-duge {
+    display: block;
+    position: absolute;
+    top: 1030px;
+    left: 66%;
+}
+
+#touxiang-duloli {
+    display: block;
+    position: absolute;
+    top: 1030px;
+    left: 30%;
+}
+
+#touxiang {
+    display: block;
+    position: absolute;
+    top: 990px;
+    left: 49.5%;
+}
+
+.divcss5-2{
+  border-top:2px double #FFFFFF; 
+  height:50px;
+  width:745px;
+  position: absolute;
+  top: 1150px;
+  left: 28.1%;
+}
+
+
+
+#jx {
+    color: white;
+    font-size: 21px;
+    display: block;
+    top: 320px; 
+    width: 700px;
+    left: 450px;
+    z-index: 5;
+    position: absolute;  
+}
+
